@@ -1,0 +1,94 @@
+/*fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+/*Body*/
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #fff;
+}
+
+
+/*Block 1*/
+
+.block1 {
+  color: #fff;
+  padding: 40px;
+}
+
+.block1 img {
+  border-radius: 50%;
+  height: 200px;
+}
+
+
+/*navigation*/
+
+.box {
+  height: 100px;
+  font-size: 25px;
+}
+
+.box a {
+  color: #fff;
+  width: 100%;
+}
+
+.box a:hover {
+  text-decoration: none;
+}
+
+
+/*Accueil*/
+
+.accueil, .accueilExperiences, .accueilProjets, .accueilContact {
+  padding: 20px;
+  color: #fff;
+}
+
+
+/*Compétences*/
+
+.competences, .experiences, .projets, .contact {
+  padding: 20px;
+  color: #333;
+}
+
+.progress {
+  margin: 20px 0;
+}
+
+
+/*Mes Projets*/
+
+.icons {
+  font-size: 5em;
+}
+
+/*Footer*/
+
+.reseaux i {
+  color: #fff;
+  margin: 40px;
+  transition: 1.3s;
+}
+
+.reseaux i:hover {
+  transform: rotateY(360deg);
+  transition: 1.3s;
+}
+
+
+/*Langages*/
+
+.langages {
+  padding: 20px;
+}
+
+
+/*Contact*/
+
+.form-control {
+  color: #fff !important;
+}
