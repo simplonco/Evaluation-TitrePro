@@ -1,0 +1,10 @@
+.partOne{
+  height: 150px;
+  background-color: #0375D8;
+  color: white;
+  display: flex;
+}
+
+.partOne .col-sm-12{
+  margin: auto;
+}

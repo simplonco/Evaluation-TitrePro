@@ -1,0 +1,19 @@
+.text{
+  height: 150px;
+  display: flex;
+}
+
+.text .col-sm-12{
+  margin: auto;
+}
+
+h1{
+  font-size: 1.5em;
+}
+
+.picture{
+  height: 600px;
+  background-image: url('picto.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}

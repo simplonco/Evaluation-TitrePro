@@ -1,0 +1,18 @@
+.resume{
+  height: 150px;
+  background-color: #5BB75B;
+  color: white;
+  display: flex;
+}
+
+.resume .col-sm-12{
+  margin: auto;
+}
+
+.pres{
+  display: flex;
+}
+
+.pres p{
+  margin: auto;
+}
