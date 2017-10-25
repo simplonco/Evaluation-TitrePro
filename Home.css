@@ -1,0 +1,83 @@
+.col-4 {
+  padding-left: 0;
+  padding-right: 0;
+
+}
+.col-8 {
+  padding-left: 0;
+  padding-right: 0;
+
+}
+.identity {
+}
+.name-title {
+  background-color: #252629;
+  color: white;
+  margin: 0;
+}
+.name-title h1 {
+  padding: 3rem;
+  margin: 0;
+}
+.post-subtitle {
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+.post-subtitle p {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 2rem;
+}
+.identity-div {
+  background-image: url("https://www.biography.com/.image/t_share/MTIwNjA4NjMzNzYwMjg2MjIw/nicolas-cage-9234498-1-402.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30rem;
+}
+.navigation-container a {
+  color: white;
+
+}
+.navigation-container {
+height: 15.5rem;
+background-color: red;
+}
+.home-nav {
+  background-color: #0869d4;
+  color: white;
+  padding: 6.5rem 0;
+
+}
+.resume-nav {
+  background-color: #59a95c;
+  color: white;
+    padding: 6.5rem 0;
+
+}
+.work-nav {
+  background-color: #eea245;
+  color: white;
+    padding: 6.5rem 0;
+
+}
+.contact-nav {
+  background-color: #d84846;
+  color: white;
+    padding: 6.5rem 0;
+
+}
+.welcome-title {
+padding: 3rem ;
+color: white;
+}
+.skill-section {
+padding: 3rem ;
+
+}
+.resume-link {
+  margin-top: 30px;
+  padding: 3rem;
+}
