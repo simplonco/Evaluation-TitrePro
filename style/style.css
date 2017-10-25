@@ -1,4 +1,5 @@
 /* HEADER */
+
 .header{
   color: white;
   height: 300px;
@@ -102,4 +103,63 @@
 
 .barProgression h1{
   font-size: 1.5em;
+}
+
+/* MY RESUME*/
+
+.resume .col-sm-12{
+  height: 150px;
+  background-color: #5BB85D;
+  color: white;
+}
+
+.resumeText{
+  height: 200px;
+  display: flex;
+  border: 2px solid white;
+}
+
+.resumeText .col-sm-12{
+margin: auto;
+}
+
+.xp .col-sm-4 .xx{
+
+  background-color: #282B2B;
+  color: white;
+  padding: auto;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.xp .col-sm-4 .dates{
+  font-size: 1em;
+  color: grey;
+  text-align: center;
+}
+
+.xp .col-sm-4 h1{
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 50px;
+}
+
+/*Projets*/
+
+.projets{
+  height: 150px;
+  background-color: #EFAD4D;
+  color: white;
+  display: flex;
+}
+
+.projets .col-sm-12 {
+  margin: auto;
+}
+
+.row .col-sm-4{
+  border: 10px solid white;
+  background-image: url('image.png');
+  background-size: cover;
+  height: 300px;
 }
