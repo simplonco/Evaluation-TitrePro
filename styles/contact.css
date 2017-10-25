@@ -1,0 +1,36 @@
+/*===== SECTION ACTIVE TAB (RESUME) ======*/
+.homeActiveTabContact {
+    height: 150px;
+    background-color: #D85453;
+    color: #FFF;
+}
+
+.mySkills {
+    height: 90px;
+}
+
+.progressBar p{
+    padding-bottom: 5px;
+}
+/*===== END SECTION ACTIVE TAB (RESUME) ======*/
+.sectionFooter {
+    margin-top: 50px;
+    height: 100px;
+    background-color: #2A2B2E;
+}
+
+.formContact {
+    width: 50%;
+}
+
+.formLine {
+    padding-bottom: 30px;
+}
+
+.buttonFormContact {
+    width: 100%;
+}
+
+.input-group-addon {
+    background-color: #D85453;
+}
