@@ -1,0 +1,219 @@
+/* line 3, ../scss/home.scss */
+header .portrait-img {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+/* line 6, ../scss/home.scss */
+header .portrait-img img {
+  width: 100%;
+}
+/* line 10, ../scss/home.scss */
+header .portrait-txt {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+/* line 13, ../scss/home.scss */
+header .portrait-txt .name-icon {
+  height: 199px;
+  background-color: #2A2B2D;
+}
+/* line 16, ../scss/home.scss */
+header .portrait-txt .name-icon h1 {
+  margin-top: 75px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+/* line 22, ../scss/home.scss */
+header .portrait-txt .name-icon i {
+  margin-top: 85px;
+  font-size: 30px;
+  color: white;
+}
+/* line 28, ../scss/home.scss */
+header .portrait-txt .txt-black {
+  height: 95px;
+  background-color: black;
+}
+/* line 31, ../scss/home.scss */
+header .portrait-txt .txt-black h3 {
+  padding-top: 30px;
+  padding-left: 100px;
+  margin-top: 0px;
+  color: white;
+}
+/* line 38, ../scss/home.scss */
+header .portrait-txt .navbar {
+  height: 200px;
+  border: none;
+  margin: 0px;
+}
+/* line 42, ../scss/home.scss */
+header .portrait-txt .navbar .home {
+  background-color: #2B76D1;
+  height: 211px;
+  text-align: center;
+}
+/* line 46, ../scss/home.scss */
+header .portrait-txt .navbar .home i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 51, ../scss/home.scss */
+header .portrait-txt .navbar .home h4 {
+  color: white;
+}
+/* line 55, ../scss/home.scss */
+header .portrait-txt .navbar .resume {
+  background-color: #73B467;
+  text-align: center;
+  height: 211px;
+}
+/* line 59, ../scss/home.scss */
+header .portrait-txt .navbar .resume i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 64, ../scss/home.scss */
+header .portrait-txt .navbar .resume h4 {
+  color: white;
+}
+/* line 68, ../scss/home.scss */
+header .portrait-txt .navbar .work {
+  background-color: #E6AE5E;
+  text-align: center;
+  height: 211px;
+}
+/* line 72, ../scss/home.scss */
+header .portrait-txt .navbar .work i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 77, ../scss/home.scss */
+header .portrait-txt .navbar .work h4 {
+  color: white;
+}
+/* line 81, ../scss/home.scss */
+header .portrait-txt .navbar .contact {
+  background-color: #CA5C54;
+  text-align: center;
+  height: 211px;
+}
+/* line 85, ../scss/home.scss */
+header .portrait-txt .navbar .contact i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 90, ../scss/home.scss */
+header .portrait-txt .navbar .contact h4 {
+  color: white;
+}
+
+/* line 98, ../scss/home.scss */
+#subheader {
+  height: 225px;
+  background-color: #2B76D1;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+/* line 103, ../scss/home.scss */
+#subheader h1 {
+  color: white;
+  padding-left: 30px;
+  padding-top: 60px;
+  margin-top: 0px;
+}
+/* line 109, ../scss/home.scss */
+#subheader h4 {
+  color: white;
+  padding-left: 30px;
+}
+
+/* line 115, ../scss/home.scss */
+#skills {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+/* line 118, ../scss/home.scss */
+#skills h1 {
+  margin-top: 100px;
+}
+/* line 121, ../scss/home.scss */
+#skills .html-skill {
+  margin-top: 40px;
+}
+/* line 123, ../scss/home.scss */
+#skills .html-skill .html-skill-bar {
+  background-color: green;
+  height: 20px;
+  border-radius: 4px;
+}
+/* line 130, ../scss/home.scss */
+#skills .css-skill h1 {
+  margin-top: 40px;
+}
+/* line 133, ../scss/home.scss */
+#skills .css-skill .css-skill-bar {
+  background-color: green;
+  height: 20px;
+  border-radius: 4px;
+}
+/* line 140, ../scss/home.scss */
+#skills .javascript-skill h1 {
+  margin-top: 40px;
+}
+/* line 143, ../scss/home.scss */
+#skills .javascript-skill .javascript-skill-bar {
+  background-color: green;
+  height: 20px;
+  border-radius: 4px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+/* line 150, ../scss/home.scss */
+#skills .javascript-skill .javascript-non-skill-bar {
+  background-color: #EDEEF0;
+  height: 20px;
+  border-radius: 4px;
+}
+/* line 157, ../scss/home.scss */
+#skills .php-skill h1 {
+  margin-top: 40px;
+}
+/* line 160, ../scss/home.scss */
+#skills .php-skill .php-skill-bar {
+  background-color: green;
+  height: 20px;
+  border-radius: 4px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+/* line 167, ../scss/home.scss */
+#skills .php-skill .php-non-skill-bar {
+  background-color: #EDEEF0;
+  height: 20px;
+  border-radius: 4px;
+}
+/* line 174, ../scss/home.scss */
+#skills .python-skill h1 {
+  margin-top: 40px;
+}
+/* line 177, ../scss/home.scss */
+#skills .python-skill .python-skill-bar {
+  background-color: green;
+  height: 20px;
+  border-radius: 4px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  margin-bottom: 40px;
+}
+/* line 185, ../scss/home.scss */
+#skills .python-skill .python-non-skill-bar {
+  background-color: #EDEEF0;
+  height: 20px;
+  border-radius: 4px;
+}
