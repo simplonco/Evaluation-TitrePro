@@ -1,0 +1,238 @@
+/* line 3, ../scss/resume.scss */
+header .portrait-img {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+/* line 6, ../scss/resume.scss */
+header .portrait-img img {
+  width: 100%;
+}
+/* line 10, ../scss/resume.scss */
+header .portrait-txt {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+/* line 13, ../scss/resume.scss */
+header .portrait-txt .name-icon {
+  height: 199px;
+  background-color: #2A2B2D;
+}
+/* line 16, ../scss/resume.scss */
+header .portrait-txt .name-icon h1 {
+  margin-top: 75px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+/* line 22, ../scss/resume.scss */
+header .portrait-txt .name-icon i {
+  margin-top: 85px;
+  font-size: 30px;
+  color: white;
+}
+/* line 28, ../scss/resume.scss */
+header .portrait-txt .txt-black {
+  height: 95px;
+  background-color: black;
+}
+/* line 31, ../scss/resume.scss */
+header .portrait-txt .txt-black h3 {
+  padding-top: 30px;
+  padding-left: 100px;
+  margin-top: 0px;
+  color: white;
+}
+/* line 38, ../scss/resume.scss */
+header .portrait-txt .navbar {
+  height: 200px;
+  border: none;
+  margin: 0px;
+}
+/* line 42, ../scss/resume.scss */
+header .portrait-txt .navbar .home {
+  background-color: #2B76D1;
+  height: 211px;
+  text-align: center;
+}
+/* line 46, ../scss/resume.scss */
+header .portrait-txt .navbar .home i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 51, ../scss/resume.scss */
+header .portrait-txt .navbar .home h4 {
+  color: white;
+}
+/* line 55, ../scss/resume.scss */
+header .portrait-txt .navbar .resume {
+  background-color: #73B467;
+  text-align: center;
+  height: 211px;
+}
+/* line 59, ../scss/resume.scss */
+header .portrait-txt .navbar .resume i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 64, ../scss/resume.scss */
+header .portrait-txt .navbar .resume h4 {
+  color: white;
+}
+/* line 68, ../scss/resume.scss */
+header .portrait-txt .navbar .work {
+  background-color: #E6AE5E;
+  text-align: center;
+  height: 211px;
+}
+/* line 72, ../scss/resume.scss */
+header .portrait-txt .navbar .work i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 77, ../scss/resume.scss */
+header .portrait-txt .navbar .work h4 {
+  color: white;
+}
+/* line 81, ../scss/resume.scss */
+header .portrait-txt .navbar .contact {
+  background-color: #CA5C54;
+  text-align: center;
+  height: 211px;
+}
+/* line 85, ../scss/resume.scss */
+header .portrait-txt .navbar .contact i {
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+/* line 90, ../scss/resume.scss */
+header .portrait-txt .navbar .contact h4 {
+  color: white;
+}
+
+/* line 98, ../scss/resume.scss */
+#subheader {
+  height: 225px;
+  background-color: #73B467;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+/* line 103, ../scss/resume.scss */
+#subheader h1 {
+  color: white;
+  padding-left: 30px;
+  padding-top: 60px;
+  margin-top: 0px;
+}
+/* line 109, ../scss/resume.scss */
+#subheader h4 {
+  color: white;
+  padding-left: 30px;
+}
+
+/* line 115, ../scss/resume.scss */
+#experience {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+/* line 118, ../scss/resume.scss */
+#experience h1 {
+  margin-top: 100px;
+}
+/* line 121, ../scss/resume.scss */
+#experience .list {
+  height: 400px;
+}
+/* line 123, ../scss/resume.scss */
+#experience .list .separator {
+  width: 10px;
+}
+/* line 126, ../scss/resume.scss */
+#experience .list .devmasters {
+  border: 1px solid black;
+  height: 400px;
+  margin-top: 20px;
+}
+/* line 130, ../scss/resume.scss */
+#experience .list .devmasters .position {
+  margin-top: 40px;
+  color: white;
+  background-color: black;
+  height: 30px;
+}
+/* line 135, ../scss/resume.scss */
+#experience .list .devmasters .position h4 {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+/* line 141, ../scss/resume.scss */
+#experience .list .websites {
+  border: 1px solid black;
+  height: 400px;
+  margin-top: 20px;
+}
+/* line 145, ../scss/resume.scss */
+#experience .list .websites .position {
+  margin-top: 40px;
+  color: white;
+  background-color: black;
+  height: 30px;
+}
+/* line 150, ../scss/resume.scss */
+#experience .list .websites .position h4 {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+/* line 156, ../scss/resume.scss */
+#experience .list .designs {
+  border: 1px solid black;
+  height: 400px;
+  margin-top: 20px;
+}
+/* line 160, ../scss/resume.scss */
+#experience .list .designs .position {
+  margin-top: 40px;
+  color: white;
+  background-color: black;
+  height: 30px;
+}
+/* line 165, ../scss/resume.scss */
+#experience .list .designs .position h4 {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+/* line 172, ../scss/resume.scss */
+#experience .sublist {
+  margin-bottom: 100px;
+}
+/* line 174, ../scss/resume.scss */
+#experience .sublist .sub-devmasters {
+  height: 50px;
+  border: 1px solid black;
+  border-top: 1px solid white;
+}
+/* line 179, ../scss/resume.scss */
+#experience .sublist .sub-websites {
+  height: 50px;
+  border: 1px solid black;
+  border-top: 1px solid white;
+}
+/* line 184, ../scss/resume.scss */
+#experience .sublist .sub-separator {
+  width: 10px;
+}
+/* line 187, ../scss/resume.scss */
+#experience .sublist .sub-designs {
+  height: 50px;
+  border: 1px solid black;
+  border-top: 1px solid white;
+}
+
+/* line 195, ../scss/resume.scss */
+#download {
+  height: 300px;
+  background-color: #2A2B2D;
+}
