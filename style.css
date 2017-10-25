@@ -1,0 +1,97 @@
+ul li:first-child{
+    font-size: 50px;
+}
+li{
+    margin-left: 97px;
+}
+
+.experience{
+    background-color: black;
+    padding: 20px 0;
+    color:white;
+    
+}
+.social{
+    background-color: grey;
+    margin-bottom: 0px;
+    color:white;
+    padding: 60px;
+}
+.home{
+    background-color: #0474d9;
+    height: 191px;
+    color: white;
+    font-size: 30px;
+}
+.resume{
+    background-color: #7cd797;
+    height: 191px;
+    color: white;
+    font-size: 30px;
+}
+.work{
+    background-color: #f0ac4e;
+    height: 191px;
+    color: white;
+    font-size: 30px;
+}
+.contact{
+    background-color: #da5350;
+    height: 191px;
+    color: white;
+    font-size: 30px;
+}
+.img-responsive{
+    height: 69vh!important;
+    width: 99%;
+}
+.space{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+.welcome{
+    background-color: #0474d9;
+    color:white;
+    padding: 30px;
+}
+.skills h2{
+    font-weight: bolder;    
+}
+                            /*page resume*/
+.resume{
+    background-color:#7cd797;
+    color:white;
+    padding: 30px;
+}
+.btn-resume{
+    background-color: #000000;
+    color:white;
+    width: 85%;
+    border:none;
+    padding: 15px;
+    margin-top: 40px; 
+    margin-left: 25px;
+}
+.square-resume{
+    border:1px solid grey;
+    border-radius: 7px;
+    margin-top: 30px;
+}
+.space-resume{
+    margin-left: 30px;
+}
+.btn-link{
+    border:1px solid white!important;
+    border-radius:7px!important;
+    color:white!important;
+}
+.footer{
+    margin-top: 50px;
+    padding:50px;
+    background-color: #292b2c;
+}
+.date{
+    margin-top: 100px;
+    padding: 20px 0;
+    background-color: #f7f7f9;
+}
