@@ -1,0 +1,20 @@
+/*===== SECTION ACTIVE TAB (RESUME) ======*/
+.homeActiveTabResume {
+    height: 150px;
+    background-color: #5FB762;
+    color: #FFF;
+}
+
+.mySkills {
+    height: 90px;
+}
+
+.progressBar p{
+    padding-bottom: 5px;
+}
+/*===== END SECTION ACTIVE TAB (RESUME) ======*/
+.sectionFooter {
+    margin-top: 50px;
+    height: 100px;
+    background-color: #2A2B2E;
+}

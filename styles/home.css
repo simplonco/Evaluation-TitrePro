@@ -1,0 +1,95 @@
+body {
+    font-family: Century Gothic;
+}
+/*===== SECTION PROFILE ======*/
+#profilePhoto{
+    height: 313.5px;
+}
+
+.lineSocial {
+    height: 127px;
+    background-color: #2A2B2E;
+    color: #FFF;
+    width: 970px;
+}
+
+.lineSocial h1 {
+    font-size: 4em;
+}
+
+.lineSocial .fa {
+    font-size: 2em;
+}
+
+.lineJob {
+    height: 60px;
+    background-color: #000;
+    color: #FFF;
+}
+
+.blockTabs {
+    height: 127px;
+    background-color: #2A2B2E;
+}
+
+.blockTabs .fa {
+    font-size: 3em;
+}
+
+.blockTabs a {
+    color: #FFF;
+}
+
+.homeTab  a:hover{
+    color: #1577D6;
+    text-decoration: none;
+}
+
+#activeLinkHome {
+    color: #1577D6;
+}
+
+#activeLinkResume {
+    color: #5FB762;
+}
+
+#activeLinkWork {
+    color: #EEAC57;
+}
+
+#activeLinkContact {
+    color: #D85453;
+}
+
+
+.resumeTab a:hover{
+    color: #5FB762; 
+    text-decoration: none;   
+}
+
+.workTab a:hover{
+    color: #EEAC57;
+    text-decoration: none;    
+}
+
+.contactTab a:hover{
+    color: #D85453;
+    text-decoration: none;
+}
+/*===== END SECTION PROFILE ======*/
+
+/*===== SECTION ACTIVE TAB (HOME) ======*/
+.homeActiveTab {
+    height: 150px;
+    background-color: #1577D6;
+    color: #FFF;
+}
+
+.mySkills {
+    height: 90px;
+}
+
+.progressBar p{
+    padding-bottom: 5px;
+}
+/*===== END SECTION ACTIVE TAB (HOME) ======*/
