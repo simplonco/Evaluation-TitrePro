@@ -1,1 +1,25 @@
-
+.html {
+  border: 10px solid #52ba67;
+  border-radius: 10px;
+  width: 100%;
+}
+.css {
+  border: 10px solid #52ba67;
+  border-radius: 10px;
+  width: 100%;
+}
+.js {
+  border: 10px solid #52ba67;
+  border-radius: 10px;
+  width: 80%;
+}
+.node {
+  border: 10px solid #52ba67;
+  border-radius: 10px;
+  width: 70%;
+}
+.react {
+  border: 10px solid #52ba67;
+  border-radius: 10px;
+  width: 60%;
+}
