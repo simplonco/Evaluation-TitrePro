@@ -1,0 +1,41 @@
+.specHeader {
+    color: white;
+    font-weight: bold;
+    padding: 60px 30px;
+    background-color: rgb(14.7%, 96.8%, 46.4%);
+}
+
+.worked {
+    padding: 30px;
+}
+
+.card {
+    border: 1px solid rgb(174, 175, 177);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px 0;
+}
+
+.infos {
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    border-radius: 10px;
+    margin: 30px 0;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+.specFooter {
+    color: white;
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    padding: 50px 30px;
+}
+
+.specFooter button {
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    border: 1px solid white;
+    border-radius: 5px;
+}
