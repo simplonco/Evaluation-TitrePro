@@ -163,3 +163,20 @@ margin: auto;
   background-size: cover;
   height: 300px;
 }
+
+/*Contact*/
+
+.contact{
+  height: 150px;
+  background-color: #D9544F;
+  color: white;
+  display: flex;
+}
+
+.contact .col-sm-12 {
+  margin: auto;
+}
+
+.form-inline{
+  margin-top: 80px;
+}
