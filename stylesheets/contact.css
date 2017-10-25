@@ -1,0 +1,10 @@
+.form-group {
+  margin: 20px 0;
+}
+.input-group-addon i {
+  width: 50px;
+  font-size: 30px;
+}
+form button {
+  width: 100%;
+}
