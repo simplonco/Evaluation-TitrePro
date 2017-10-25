@@ -1,0 +1,89 @@
+body {
+    font-family: 'Montserrat', sans-serif;    
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+/*!!!!!!!  HEADER  !!!!!!!*/
+
+header {
+    color: white;
+}
+
+header a, header a:hover {
+    color: white;
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+.shareBar {
+    display: flex;
+}
+
+.mainHeader {
+    display: flex;
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    padding: 50px;
+}
+
+.mainHeader h1 {
+    font-size: 35px;
+    margin: 15px 0;
+}
+
+.mainHeader ul {
+    margin: 30px auto; 
+}
+
+.mainHeader li {
+    margin: 0 70px;
+} 
+
+.paddingCol {
+    padding: 0;
+}
+
+.experienceClown {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: black;
+    padding: 30px 50px;
+}
+
+.tabs h3 {
+    text-align: center;
+}
+
+.homeTab {
+    padding: 52.5px;
+    background-color: rgb(12.3%, 42.7%, 93.3%);
+}
+
+.homeTab, .resumeTab, .workTab, .contactTab {
+    text-align: center;
+}
+
+.resumeTab {
+    padding: 52.5px;    
+    background-color: rgb(14.7%, 96.8%, 46.4%);
+}
+
+.workTab {
+    padding: 52.5px;    
+    background-color: rgb(96.8%, 70.1%, 14.7%);
+}
+
+.contactTab {
+    padding: 52.5px;    
+    background-color: rgb(96.8%, 33.6%, 14.7%);
+}

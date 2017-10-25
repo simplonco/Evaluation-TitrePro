@@ -1,0 +1,40 @@
+.specHeader {
+    color: white;
+    font-weight: bold;
+    padding: 60px 30px;
+    background-color: rgb(12.3%, 42.7%, 93.3%);
+}
+
+.skills {
+    padding: 60px 30px;
+}
+
+.skillBars {
+    padding: 0 30px; 
+}
+
+hr {
+    border: 10px solid rgb(71, 196, 52);
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+hr:nth-child(6) {
+    width: 60%;
+}
+
+hr:nth-child(4) {
+    width: 80%;
+}
+
+hr:nth-child(6) {
+    width: 40%;
+}
+
+hr:nth-child(8) {
+    width: 50%;
+}
+
+hr:nth-child(10) {
+    width: 70%;
+}

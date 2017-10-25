@@ -1,0 +1,33 @@
+.specHeader {
+    color: white;
+    font-weight: bold;
+    padding: 60px 30px;
+    background-color: rgb(96.8%, 70.1%, 14.7%);
+}
+
+
+
+.built {
+    padding: 30px;
+}
+
+.built img {
+    height: 250px;
+    width: 100%;
+}
+
+.built p {
+    margin-bottom: 50px;
+}
+
+.specFooter {
+    color: white;
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    padding: 50px 30px;
+}
+
+.specFooter button {
+    background-color: rgb(30.7%, 31.3%, 32.3%);
+    border: 1px solid white;
+    border-radius: 5px;
+}
