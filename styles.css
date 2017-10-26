@@ -1,0 +1,56 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+.bg-blue {
+  background-color: #246ecf;
+}
+
+.bg-green {
+  background-color: #2b986a;
+}
+
+.bg-purple {
+  background-color: #7c5582;
+}
+
+.bg-marine {
+  background-color: #00244B;
+}
+
+.header-name {
+  font-family: 'Merriweather', sans-serif;
+}
+
+.header-name .fa {
+  font-size: 25px;
+}
+
+.header-title {
+  background-color: #001A37;
+  color: #eee;
+  font-weight: bold;
+}
+
+header a {
+  text-align: center;
+  color: #fff;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: #e3e3e3
+}
+
+.header-nav p {
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.header-nav .fa {
+  font-size: 40px;
+}
