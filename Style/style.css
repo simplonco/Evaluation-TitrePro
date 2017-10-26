@@ -1,0 +1,58 @@
+body {
+    font-size: 17px;
+    color: black;
+    font-family: 'Cabin', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+p {
+  padding-top: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/*HEADER*/
+
+img {
+  width: 500px;
+  height: 400px;
+  margin-left: -20px;
+}
+.ed {
+  height: 400px;
+}
+.icones {
+  padding-top: 100px;
+}
+.name {
+  text-align: center;
+  background-color: #464a51;
+  color: white;
+  height: 200px;
+  margin-left: -50px;
+}
+.exp {
+  background-color: black;
+  height: 100px;
+  color: white;
+  padding-left: 50px;
+  font-size: 15px;
+}
+
+.block {
+  height: 100px;
+  text-align: center;
+}
