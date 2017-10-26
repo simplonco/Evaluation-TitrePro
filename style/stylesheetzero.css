@@ -1,0 +1,29 @@
+#page {
+}
+
+.portfolio-img {
+}
+
+
+.social {
+    background-color: #262626;
+    color: #ffffff;
+    justify-content: space-between;
+}
+
+.techno {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+
+.nav {
+    list-style-type: none;
+}
+
+
+.nav li {
+    display: inline;
+}
+
+

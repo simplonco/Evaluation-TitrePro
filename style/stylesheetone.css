@@ -1,0 +1,21 @@
+#page {
+}
+
+.portfolio-img {
+}
+
+
+.social {
+    justify-content: space-between;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+
+.nav li {
+    display: inline;
+}
+
+
